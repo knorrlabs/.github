@@ -1,0 +1,4 @@
+# Default org-wide code owners.
+# Applies to any repo in the org that does not define its own CODEOWNERS.
+# Team-scoped on purpose so review enforcement survives account renames.
+* @knorrlabs/admins
