@@ -7,7 +7,7 @@ Files here apply as defaults to **every repository in the org** that does not de
 | File | Purpose |
 | --- | --- |
 | `profile/README.md` | The public org profile shown at github.com/knorrlabs |
-| `.github/CODEOWNERS` | Default code owners (`@knorrlabs/admins`) |
+| `.github/CODEOWNERS` | Code owners for this repo + canonical template to copy into each repo (CODEOWNERS is **not** inherited org-wide) |
 | `.github/ISSUE_TEMPLATE/` | Bug and feature issue forms + chooser config |
 | `.github/PULL_REQUEST_TEMPLATE.md` | Default PR template |
 | `CONTRIBUTING.md` | How to contribute |

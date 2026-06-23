@@ -1,4 +1,8 @@
-# Default org-wide code owners.
-# Applies to any repo in the org that does not define its own CODEOWNERS.
+# Code owners for THIS repository (.github).
+#
+# NOTE: Unlike issue/PR templates and the other health files in this repo,
+# CODEOWNERS is NOT inherited org-wide. Each repository needs its own copy.
+# Use the line below as the canonical default when setting up a new repo,
+# and grant the @knorrlabs/admins team write access so it resolves.
 # Team-scoped on purpose so review enforcement survives account renames.
 * @knorrlabs/admins
