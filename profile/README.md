@@ -1,6 +1,6 @@
 # knorrlabs
 
-An independent lab for developer and infrastructure tooling, with a focus on Ignition, Kubernetes, and GitOps. Projects here are built to be used by people other than their author, so they live under a stable, impersonal home rather than a personal username.
+An independent lab for developer and infrastructure tooling, with a focus on Ignition, Kubernetes, and GitOps.
 
 ### Focus areas
 
