@@ -2,7 +2,7 @@
 
 Looking for help? Here's where to go.
 
-- **Questions, ideas, and general help** → [Discussions](https://github.com/orgs/knorrlabs/discussions)
+- **Questions, ideas, and general help** → [Discussions](https://github.com/knorrlabs/.github/discussions)
 - **Bugs and feature requests** → open an issue in the relevant repository using the provided templates
 - **Security vulnerabilities** → see [SECURITY.md](SECURITY.md) (report privately, not as a public issue)
 

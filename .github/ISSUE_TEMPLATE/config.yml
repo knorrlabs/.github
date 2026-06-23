@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 💬 Questions & discussion
-    url: https://github.com/orgs/knorrlabs/discussions
+    url: https://github.com/knorrlabs/.github/discussions
     about: Ask questions, share ideas, and get help. Please don't open an issue for support questions.
   - name: 🔐 Report a security vulnerability
     url: https://github.com/knorrlabs/.github/security/policy
